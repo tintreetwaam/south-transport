@@ -18,11 +18,11 @@
 /* end of declaration of font family */
 
 /* start of declaration of variables */
-/* Originally #2b71c6 */
+/* Originally #2b71c6 blue & #4d5055 grey */
 
 :root {
   --primary-color: black;
-  --secondary-color: #4d5055;
+  --secondary-color: #2b71c6;
   --shadow-color: #3e6b9a00;
 }
 
